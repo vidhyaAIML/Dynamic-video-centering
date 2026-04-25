@@ -1,0 +1,9 @@
+.venv/
+dist/
+.dist/
+.vscode/
+__pycache__/
+*.pycgit add my_face_app.py
+git add README.md
+
+git add .gitignore
